@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## My experience at the Moveit Hackathon in Guiyang, China
 
@@ -110,11 +110,3 @@ By the end of the night Edu & me decided that we need to organize a meeting at 0
 ### Failures...
 
 ### Lessons learnt (things we could have done better)
-
-
-
-
-
-
-
-
