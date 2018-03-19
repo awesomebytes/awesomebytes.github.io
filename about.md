@@ -7,6 +7,10 @@ published: true
 
 I'm a robotics engineer who loves to play with expensive toys. Currently pursuing a PhD at [The Magic Lab - Innovation and Enterprise Research Laboratory](http://themagiclab.org/) in the [Faculty of Engineering and Information Technology](https://www.uts.edu.au/about/faculty-engineering-and-information-technology) at [University of Technology Sydney](https://www.uts.edu.au/) in Sydney, Australia.
 
+
+![sam with talos robot]({{site.baseurl}}/sam_talos.jpg)
+
+
 I previously worked at [PAL Robotics](http://www.pal-robotics.com/en/home/) and was a proud member of the robotics club in my former university [AESS](https://aess.upc.es/).
 
 I did my bachelor in [Computer Science](https://www.fib.upc.edu/en/studies) and my master in [Automatic Control and Robotics](https://mar.masters.upc.edu/en) both at [Universitat Politecnica de Catalunya - BarcelonaTECH](https://www.upc.edu/en).
