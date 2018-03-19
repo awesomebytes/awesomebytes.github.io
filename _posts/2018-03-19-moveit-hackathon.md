@@ -52,7 +52,15 @@ Hardware:
 - [PANDACAN](https://github.com/commaai/panda) boards
 - CANalyst-2 boards
 
+Key people description:
+- 1 CAN expert
+- 2 Autoware experts (one of them is one of the main developers)
+- A few multifaceted hackers, everything from electronics to software (I'm one of them!)
+- Software developers & engineers
+- Machine learning experts
+- A few students
 
+Note that we had no real hardware/mechanichal engineer unfortunately. So we made no use of an awesome 3D printer!
 
 
 
